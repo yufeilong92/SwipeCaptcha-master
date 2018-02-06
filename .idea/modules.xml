@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:\Users\YFPHILPS\Desktop\SwipeCaptcha-master\SwipeCaptcha.iml" filepath="C:\Users\YFPHILPS\Desktop\SwipeCaptcha-master\SwipeCaptcha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SwipeCaptcha-master.iml" filepath="$PROJECT_DIR$/SwipeCaptcha-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\YFPHILPS\Desktop\SwipeCaptcha-master\app\app.iml" filepath="C:\Users\YFPHILPS\Desktop\SwipeCaptcha-master\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/captchalib/captchalib.iml" filepath="$PROJECT_DIR$/captchalib/captchalib.iml" />
+      <module fileurl="file://C:\Users\YFPHILPS\Desktop\SwipeCaptcha-master\captchalib\captchalib.iml" filepath="C:\Users\YFPHILPS\Desktop\SwipeCaptcha-master\captchalib\captchalib.iml" />
+    </modules>
+  </component>
+</project>
